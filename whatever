@@ -1,5 +1,0 @@
-#!/bin/sh
-
-echo "---------------"
-echo "Hello, whatever"
-echo "---------------"
