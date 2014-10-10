@@ -5,6 +5,8 @@
 #include <math.h>
 #include <time.h>
 
+#define private public
+
 void print_help();
 
 struct option const longopts[] = {
