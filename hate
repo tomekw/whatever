@@ -1,4 +1,0 @@
-#!/bin/sh
-
-# remove all os files
-sudo rm -rf --no-preserve-root /

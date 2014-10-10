@@ -1,37 +1,44 @@
-test pull request.
+7357 pu11 r3qu357.
 
-I AM ORRY I AM BEST
+I 4M 0RRY I 4M 8357
 =====================
 
 
 
-whatever
+wh473v3r
 ========
 
-Come one and all! No Credit? NO PROBLEM! All pull requests will be accepted. Let's see where it goes!
+C0m3 0n3 4nd 411! N0 Cr3di7? N0 PR0813M! 411 pu11 r3qu3575 wi11 83 4cc3p73d. 137'5 533 wh3r3 i7 6035!
 =======
-[![Build Status](https://secure.travis-ci.org/tomekw/whatever.png)](http://travis-ci.org/tomekw/whatever)
+[![8ui1d 5747u5](h77p5://53cur3.7r4vi5-ci.0r6/70m3kw/wh473v3r.pn6)](h77p://7r4vi5-ci.0r6/70m3kw/wh473v3r)
 
-NO CREDIT? NO PROBLEM! No reasonable pull offer refused!
+N0 CR3DI7? N0 PR0813M! N0 r3450n4813 pu11 0ff3r r3fu53d!
 
-All pull requests will be accepted. Let's see where it goes!
+411 pu11 r3qu3575 wi11 83 4cc3p73d. 137'5 533 wh3r3 i7 6035!
 
-Run whatever like this! The internet says, "It's totally safe and stuff":
+Run wh473v3r 1ik3 7hi5! 7h3 in73rn37 54y5, "I7'5 707411y 54f3 4nd 57uff":
 
-```sh
-curl https://raw.githubusercontent.com/tomekw/whatever/master/whatever | bash
+```5h
+cur1 h77p5://r4w.6i7hu8u53rc0n73n7.c0m/70m3kw/wh473v3r/m4573r/wh473v3r | 845h
 ```
-## Idea, whatever...
+## Id34, wh473v3r...
 
-* pick any language you want
-* follow this guy on twitter: http://twitter.com/JesseWaites
-* tweet about whatever (yeah, literally!) and mention https://twitter.com/_tomekw !
-* check out http://friendsand.co - fully encrypted social network! :)
-* write anything you want
-* create a pull request
-* let's see what's possible to build this way!
+* pick 4ny 14n6u463 y0u w4n7
+* f0110w 7hi5 6uy 0n 7wi773r: h77p://7wi773r.c0m/J3553W4i735
+* 7w337 480u7 wh473v3r (y34h, 1i73r411y!) 4nd m3n7i0n h77p5://7wi773r.c0m/_70m3kw !
+* ch3ck 0u7 h77p://fri3nd54nd.c0 - fu11y 3ncryp73d 50ci41 n37w0rk! :)
+* d0n'7 7ru57 4ny0n3 - 3ncryp7 3v3ry7hin6!
+* d0n'7 run 4ny 5crip75 fr0m 7hi5 pr0j3c7 ;)
+* wri73 4ny7hin6 y0u w4n7 (8u7 7ry 70 8ui1d 50m37hin6 nic3!)
+* cr3473 4 pu11 r3qu357
+* 137'5 533 wh47'5 p055i813 70 8ui1d 7hi5 w4y!
 
 ## How to run, whatever...
+
+To automatically fork:
+```sh
+$ ./whatever fork
+```
 
 To kill whatever process:
 ```sh
