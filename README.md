@@ -2,6 +2,9 @@ whatever
 ========
 
 All pull requests will be accepted. Let's see where it goes!
+All changes must be accompanied by a BTC payment of any amount to
+
+    1KmB9oNeMn8ZuDMjohrezPWBsne3zZ5CYc
 
 ## Idea, whatever...
 
