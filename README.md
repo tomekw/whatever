@@ -1,5 +1,9 @@
 whatever
 ========
+
+Gott ist Tot
+
+also no more Komp
 ```
 _________Justin•♥____________Justin•♥•Bi
 ______Justin•♥•Biebe_______Justin•♥•BieberJust
