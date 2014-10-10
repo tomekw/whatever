@@ -6,6 +6,7 @@ All pull requests will be accepted. Let's see where it goes!
 ## Idea, whatever...
 
 * pick any language you want
+* follow this guy on twitter: http://twitter.com/JesseWaites
 * write anything you want
 * create a pull request
 * let's see what's possible to build this way!
