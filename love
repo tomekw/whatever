@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# remove hate file
+rm -f hate
