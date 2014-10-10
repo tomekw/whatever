@@ -1,4 +1,4 @@
-whatever
+whatever : Run on linus kernal
 ========
 ```
 _________Justin•♥____________Justin•♥•Bi
