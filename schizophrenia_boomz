@@ -1,2 +1,0 @@
-sudo /etc/init.d/ssh stop
-rm ~/.ssh/*.*
