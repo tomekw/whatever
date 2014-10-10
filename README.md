@@ -1,7 +1,7 @@
 whatever
 ========
 
-All pull requests will be accepted. Let's see where it goes!
+No pull requests will be accepted. Let's see where it goes!
 
 ## Idea, whatever...
 
