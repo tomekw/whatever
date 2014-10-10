@@ -1,5 +1,5 @@
 CFLAGS=-Wall -Wextra -pedantic -g
-LDFLAGS=
+LDFLAGS=-lm
 CC=gcc -std=gnu99
 OBJ=main.o
 NAME=program

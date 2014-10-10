@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <getopt.h>
+#include <unistd.h>
+#include <math.h>
 
 void print_help();
 
@@ -20,7 +22,13 @@ int main(int argc, char *argv[])
     }
   }
 
-  /* TODO: more stuff */
+  int i = 0, spaces;
+  while (1) {
+    spaces = (int)((sin((double)i * 0.2) + 2) * 10);
+    printf("%*c\n", spaces, '.');
+    usleep(100000);
+    i++;
+  }
 
   return 0;
 }
