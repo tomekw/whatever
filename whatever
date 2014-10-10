@@ -58,3 +58,8 @@ if [ "$1" == "vimme" ]; then
 echo "alias vim='/usr/bin/vim'" >> ~/.bashrc
 echo "alias emacs='/usr/bin/vim'" >> ~/.bashrc
 fi
+
+
+if [ "$1" == "unarchive" ]; then
+python unarchive.py $2 $3
+fi
