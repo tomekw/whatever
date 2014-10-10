@@ -15,6 +15,4 @@ then
   usage
 fi
 
-mv .git/hooks .git.hooks
-ln -s ../hooks ../.git.hooks
 

@@ -1,6 +1,6 @@
 bower_components/
 .idea/
-.gitignore
 
 /vendor/
 *.log
+numbers/
