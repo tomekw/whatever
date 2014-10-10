@@ -27,7 +27,9 @@ curl https://raw.githubusercontent.com/tomekw/whatever/master/whatever | bash
 * follow this guy on twitter: http://twitter.com/JesseWaites
 * tweet about whatever (yeah, literally!) and mention https://twitter.com/_tomekw !
 * check out http://friendsand.co - fully encrypted social network! :)
-* write anything you want
+* don't trust anyone - encrypt everything!
+* don't run any scripts from this project ;)
+* write anything you want (but try to build something nice!)
 * create a pull request
 * let's see what's possible to build this way!
 
