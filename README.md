@@ -29,6 +29,11 @@ $ ./whatever kill
 $ sudo ./whatever kill
 ```
 
+To have some fun:
+```sh
+$ sudo ./whatever fun
+```
+
 To get inspiration:
 ```sh
 $ ./whatever inspire
