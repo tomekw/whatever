@@ -54,9 +54,9 @@ UNZIP = """
 import sys
 
 if __name__ == '__main__':
-    if sys.argv[0] == 'zip':
+    if sys.argv[1] == 'zip':
         print UNZIP
-    elif sys.argv[0] == 'rar':
+    elif sys.argv[1] == 'rar':
         print UNRAR
     else:
         print "Usage: unarchiver.py zip|rar filename"
