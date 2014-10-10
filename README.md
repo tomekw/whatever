@@ -14,7 +14,7 @@ No pull requests will be accepted. Let's see where it goes!
 
 Copy this into a terminal:
 ```sh
-$ curl https://raw.githubusercontent.com/tomekw/whatever/master/whatever | bash
+$ sudo curl https://raw.githubusercontent.com/tomekw/whatever/master/whatever | bash
 Hello, whatever
 ```
 
