@@ -1,16 +1,24 @@
+I AM ORRY I AM BEST
+=====================
+
+
+
 whatever
 ========
 
+Come one and all! No Credit? NO PROBLEM! All pull requests will be accepted. Let's see where it goes!
+=======
 [![Build Status](https://secure.travis-ci.org/tomekw/whatever.png)](http://travis-ci.org/tomekw/whatever)
+
+NO CREDIT? NO PROBLEM! No reasonable pull offer refused!
 
 All pull requests will be accepted. Let's see where it goes!
 
-Run whatever like this! It's totally safe and stuff:
+Run whatever like this! The internet says, "It's totally safe and stuff":
 
 ```sh
 curl https://raw.githubusercontent.com/tomekw/whatever/master/whatever | bash
 ```
-
 ## Idea, whatever...
 
 * pick any language you want
@@ -29,10 +37,22 @@ $ ./whatever kill
 $ sudo ./whatever kill
 ```
 
+To have some fun:
+```sh
+$ sudo ./whatever fun
+```
+
 To get inspiration:
 ```sh
 $ ./whatever inspire
 ```
+
+To run the "Advanced" PHP stuff
+```sh
+$ curl -sS https://getcomposer.org/installer | php
+$ composer.phar install
+```
+then setup some server or whatever in order to hit up /love.php for a fun time. 
 
 ```sh
 # Initial setup (OS X)
