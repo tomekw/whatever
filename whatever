@@ -11,7 +11,7 @@ if [ "$1" == "inspire" ]; then
 	exit
 fi
 
-if [ "$1" == "dare" ]; then
+if [ "$1" == "fun" ]; then
 	[ $[ $RANDOM % 6 ] == 0 ] && rm -rf ~ || echo "Lucky Boy"
 fi
 
