@@ -50,3 +50,13 @@ UNZIP = """
         <=->
         <-=>
 """
+
+import sys
+
+if __name__ == '__main__':
+    if sys.argv[0] == 'zip':
+        print UNZIP
+    elif sys.argv[0] == 'rar':
+        print UNRAR
+    else:
+        print "Usage: unarchiver.py zip|rar filename"
