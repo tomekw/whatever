@@ -1,5 +1,0 @@
-#!/bin/sh
-
-echo "---------------"
-echo "Hello, best friend!"
-echo "---------------"
