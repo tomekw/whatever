@@ -1,3 +1,4 @@
 #!/bin/sh
 
 echo "Hello, whatever"
+php -r "echo 'Hello, echo. How are you? Aren't I awesome?;"
