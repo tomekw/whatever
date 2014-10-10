@@ -3,6 +3,7 @@
 #include <getopt.h>
 #include <unistd.h>
 #include <math.h>
+#include <time.h>
 
 void print_help();
 
@@ -22,12 +23,21 @@ int main(int argc, char *argv[])
     }
   }
 
-  int i = 0, spaces;
+  srand(time(NULL));
+  int i = 40, spaces, hspeed = 0;
   while (1) {
     spaces = (int)((sin((double)i * 0.2) + 2) * 10);
     printf("%*c\n", spaces, '.');
     usleep(100000);
-    i++;
+    hspeed += (rand() % 2) * 2 - 1;
+    i += hspeed;
+    if (i < 0) {
+      i = 0;
+      hspeed = 0;
+    } else if (i > 80) {
+      i = 80;
+      hspeed = 0;
+    }
   }
 
   return 0;
