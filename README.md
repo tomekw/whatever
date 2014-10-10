@@ -1,7 +1,7 @@
 whatever
 ========
 
-No pull requests will be accepted. Let's see where it goes!
+Come one and all! No Credit? NO PROBLEM! All pull requests will be accepted. Let's see where it goes!
 
 ## Idea, whatever...
 
