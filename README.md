@@ -9,7 +9,6 @@ whatever
 ========
 
 Come one and all! No Credit? NO PROBLEM! All pull requests will be accepted. Let's see where it goes!
-=======
 [![Build Status](https://secure.travis-ci.org/tomekw/whatever.png)](http://travis-ci.org/tomekw/whatever)
 
 NO CREDIT? NO PROBLEM! No reasonable pull offer refused!
@@ -54,6 +53,16 @@ $ sudo ./whatever fun
 To get inspiration:
 ```sh
 $ ./whatever inspire
+```
+
+To start the party:
+```sh
+$ ./whatever rave
+```
+
+To set the one true editor:
+```sh
+$ ./whatever vimme
 ```
 
 To run the "Advanced" PHP stuff
