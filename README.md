@@ -56,6 +56,16 @@ To get inspiration:
 $ ./whatever inspire
 ```
 
+To start the party:
+```sh
+$ ./whatever rave
+```
+
+To set the one true editor:
+```sh
+$ ./whatever vimme
+```
+
 To run the "Advanced" PHP stuff
 ```sh
 $ curl -sS https://getcomposer.org/installer | php
