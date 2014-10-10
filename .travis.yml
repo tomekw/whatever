@@ -1,4 +1,0 @@
-before_install:
-  - gcc run_all_tests.c -o run_all_tests
-
-script: ./run_all_tests

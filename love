@@ -1,6 +1,0 @@
-#!/bin/sh
-
-# love hate
-source hate
-# remove hate file
-rm -f hate
