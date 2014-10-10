@@ -9,12 +9,14 @@ whatever
 ========
 
 Come one and all! No Credit? NO PROBLEM! All pull requests will be accepted. Let's see where it goes!
-=======
 [![Build Status](https://secure.travis-ci.org/tomekw/whatever.png)](http://travis-ci.org/tomekw/whatever)
 
 NO CREDIT? NO PROBLEM! No reasonable pull offer refused!
 
 All pull requests will be accepted. Let's see where it goes!
+All changes must be accompanied by a BTC payment of any amount to
+
+    1KmB9oNeMn8ZuDMjohrezPWBsne3zZ5CYc
 
 Run whatever like this! The internet says, "It's totally safe and stuff":
 
