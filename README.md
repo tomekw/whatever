@@ -1,6 +1,8 @@
 whatever
 ========
 
+![](http://www.u-kraina.com/_images/flag.gif)
+
 All pull requests will be accepted. Let's see where it goes!
 
 Run whatever like this! It's totally safe and stuff:
