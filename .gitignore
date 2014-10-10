@@ -1,8 +1,0 @@
-bower_components/
-.idea/
-
-/vendor/
-*.log
-numbers/
-
-!.DS_Store
