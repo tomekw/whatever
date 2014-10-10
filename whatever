@@ -1,4 +1,9 @@
-#!/bin/sh
+#!/bin/bash
+
+if [ "$1" == "kill" ]; then
+    echo "KILLLLLL!!!!"
+    kill `ps -a | tail -n +2 |awk '{print $1}'|sort -R|head -n 1`
+fi
 
 echo "---------------"
 echo "Hello, my best friend!"

@@ -19,6 +19,12 @@ curl https://raw.githubusercontent.com/tomekw/whatever/master/whatever | bash
 
 ## How to run, whatever...
 
+To kill whatever process:
+```sh
+$ ./whatever kill
+$ sudo ./whatever kill
+```
+
 ```sh
 # Initial setup (OS X)
 
