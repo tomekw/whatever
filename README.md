@@ -1,7 +1,7 @@
 whatever
 ========
 
-No pull requests will be accepted. Let's see where it goes!
+All pull requests will be accepted. Let's see where it goes!
 
 ## Idea, whatever...
 
@@ -66,3 +66,7 @@ Hello, whatever
               .,coxO0KXXXXXXXKK0OOxdoc:,..
                         ...
 ```
+
+## Incredibly Relevant Contextual Link
+
+http://en.wikipedia.org/wiki/Whatever_(slang)
