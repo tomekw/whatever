@@ -39,6 +39,13 @@ To get inspiration:
 $ ./whatever inspire
 ```
 
+To run the "Advanced" PHP stuff
+```sh
+$ curl -sS https://getcomposer.org/installer | php
+$ composer.phar install
+```
+then setup some server or whatever in order to hit up /love.php for a fun time. 
+
 ```sh
 # Initial setup (OS X)
 
