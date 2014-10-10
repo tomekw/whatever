@@ -1,5 +1,5 @@
 #!/bin/sh
 
 echo "---------------"
-echo "Hello, whatever"
+echo "Hello, whatever" | cowsay
 echo "---------------"
