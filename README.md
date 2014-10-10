@@ -1,12 +1,13 @@
 whatever
 ========
 
-No pull requests will be accepted. Let's see where it goes!
+No pull demands will be denied. Let's see where it goes!
 
 ## Idea, whatever...
 
 * pick any language you want
 * write anything you want
+    * or dont, i'm not a judge
 * create a pull request
 * let's see what's possible to build this way!
 
