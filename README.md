@@ -11,7 +11,7 @@ All changes must be accompanied by a BTC payment of any amount to
 * pick any language you want
 * write anything you want
 * create a pull request
-* let's what it's possible to build this way!
+* let's see what's possible to build this way!
 
 ## How to run, whatever...
 
