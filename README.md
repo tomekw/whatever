@@ -13,6 +13,14 @@ All pull requests will be accepted. Let's see where it goes!
 ## How to run, whatever...
 
 ```sh
+# Initial setup (OS X)
+
+$ brew install imagemagick
+$ bundle install
+$ lolcommits --enable
+```
+
+```sh
 $ ./whatever
 ---------------
 Hello, best friend!
