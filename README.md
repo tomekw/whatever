@@ -15,6 +15,7 @@ curl https://raw.githubusercontent.com/tomekw/whatever/master/whatever | bash
 
 * pick any language you want
 * follow this guy on twitter: http://twitter.com/JesseWaites
+* tweet about whatever (yeah, literally!) and mention https://twitter.com/_tomekw !
 * check out http://friendsand.co - fully encrypted social network! :)
 * write anything you want
 * create a pull request
