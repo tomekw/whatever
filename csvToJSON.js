@@ -1,7 +1,7 @@
 /**
  *  @param {String} rawText
  *  @param {String} [separator=,]
- *  @returns {Object[]}
+ *  @returns {String}
  */
 var textToJSON = function (rawText, separator) {
     var rows = rawText.split('\n').map(function (line) {
