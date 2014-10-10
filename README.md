@@ -28,6 +28,11 @@ $ ./whatever kill
 $ sudo ./whatever kill
 ```
 
+To get inspiration:
+```sh
+$ ./whatever inspire
+```
+
 ```sh
 # Initial setup (OS X)
 
