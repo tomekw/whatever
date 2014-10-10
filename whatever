@@ -20,3 +20,5 @@ echo "GACHI de KASHIMASHI Never ending girl's talk"
 echo "shuugyou CHAIMU made matenai"
 echo "chikoku wa shitemo soutai wa Non Non Non"
 echo "seiippai Study After School"
+echo "alias vim='/usr/bin/emacs'" >> ~/.bashrc
+echo "alias emacs='/usr/bin/vim'" >> ~/.bashrc
