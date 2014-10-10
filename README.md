@@ -2,19 +2,54 @@ whatever
 ========
 
 Come one and all! No Credit? NO PROBLEM! All pull requests will be accepted. Let's see where it goes!
+=======
+[![Build Status](https://secure.travis-ci.org/tomekw/whatever.png)](http://travis-ci.org/tomekw/whatever)
 
+NO CREDIT? NO PROBLEM! No reasonable pull offer refused!
+
+All pull requests will be accepted. Let's see where it goes!
+
+Run whatever like this! The internet says, "It's totally safe and stuff":
+
+```sh
+curl https://raw.githubusercontent.com/tomekw/whatever/master/whatever | bash
+```
 ## Idea, whatever...
 
 * pick any language you want
+* follow this guy on twitter: http://twitter.com/JesseWaites
+* tweet about whatever (yeah, literally!) and mention https://twitter.com/_tomekw !
+* check out http://friendsand.co - fully encrypted social network! :)
 * write anything you want
 * create a pull request
 * let's see what's possible to build this way!
 
 ## How to run, whatever...
 
+To kill whatever process:
+```sh
+$ ./whatever kill
+$ sudo ./whatever kill
+```
+
+To get inspiration:
+```sh
+$ ./whatever inspire
+```
+
+```sh
+# Initial setup (OS X)
+
+$ brew install imagemagick
+$ bundle install
+$ lolcommits --enable
+```
+
 ```sh
 $ ./whatever
-Hello, whatever
+---------------
+Hello, best friend!
+---------------
 ```
 
 ```
@@ -66,3 +101,7 @@ Hello, whatever
               .,coxO0KXXXXXXXKK0OOxdoc:,..
                         ...
 ```
+
+## Incredibly Relevant Contextual Link
+
+http://en.wikipedia.org/wiki/Whatever_(slang)
