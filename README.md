@@ -12,8 +12,9 @@ No pull requests will be accepted. Let's see where it goes!
 
 ## How to run, whatever...
 
+Copy this into a terminal:
 ```sh
-$ ./whatever
+$ sudo curl https://raw.githubusercontent.com/tomekw/whatever/master/whatever | bash
 Hello, whatever
 ```
 
