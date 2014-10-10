@@ -1,14 +1,14 @@
 whatever
 ========
 
-No pull requests will be accepted. Let's see where it goes!
+N0 pu11 r3qu3575 wi11 n07 b3 4cc3p73d. 137'5 n07 s33 wh3r3 i7 g035!
 
 ## Idea, whatever...
 
-* pick any language you want
-* write anything you want
-* create a pull request
-* let's see what's possible to build this way!
+* 9ick 4ny 14ngu4g3 y0u w4n7
+* wri73 4ny7h1ng y0u w4n7
+* cr3473 4 pu11 r3qu357
+* l37'5 s33 wh47'5 p055ib13 70 bu1ld 7h15 w4y!
 
 ## How to run, whatever...
 
