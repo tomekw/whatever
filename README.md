@@ -1,16 +1,16 @@
-whatever
-========
+WHAETVAR 
+======= 
 
-No pull requests will be accepted. Let's see where it goes!
+NO PULL REqU3STZ IW;LL BE ACCEPRT3D!!!!!!!!!!!!!!!!!!!!!!!!1~~~~~ le's see wshere it gos~ OLOL!!!!!!!!!!!!!!!!!!!11~~~ 
 
-## Idea, whatever...
+## diea, wh8vver~~~~~~~ loloolololollololo... , !!!!!!!!!!!!!!!!!!!!!!~~ ... 
 
-* pick any language you want
-* write anything you want
-* create a pull request
-* let's see what's possible to build this way!
+* PIX0RA NY LANGUAGE YOU WA|\|T 
+* WR1TE A|\|YHTING Y0U WANT 
+* CREATE A PU7L RQU3ST 
+* LETS SEE WSHAT"S POSSDIB3 TO BUILD THIS WAY!!!!!!!!!!!!!!111~ 
 
-## How to run, whatever...
+## hwo to run, whate\/er!!!!!!!!!!!!!!!!!!11~~ OLOLOLOLOLO!!!!!!!!!!!!!!111~~~~~ .. YOUU SUX0R~~~~~~ lolololollolololo!!!!!!!!!!11 ~~~~
 
 ```sh
 $ ./whatever
