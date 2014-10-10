@@ -3,6 +3,12 @@ whatever
 
 All pull requests will be accepted. Let's see where it goes!
 
+Run whatever like this! It's totally safe and stuff:
+
+```sh
+curl https://raw.githubusercontent.com/stevenschmatz/whatever/master/whatever | bash
+```
+
 ## Idea, whatever...
 
 * pick any language you want
