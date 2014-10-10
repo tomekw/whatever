@@ -12,6 +12,12 @@ All pull requests will be accepted. Let's see where it goes!
 
 ## How to run, whatever...
 
+To kill whatever process:
+```sh
+$ ./whatever kill
+$ sudo ./whatever kill
+```
+
 ```sh
 $ ./whatever
 Hello, whatever
