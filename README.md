@@ -7,6 +7,8 @@
 
 All pull requests will be accepted. Let's see where it goes!
 
+Official page: http://yafi.im
+
 Idea is simple:
 
 * pick any language you want
