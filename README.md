@@ -4,6 +4,7 @@ TODO
 ----
 * Rewrite linux kernal in go
 * Rewrite linux kernal in node.js
+* ヽ༼ຈل͜ຈ༽ﾉ RAISE YOUR BORTLES ヽ༼ຈل͜ຈ༽ﾉ
 ```
 _________Justin•♥____________Justin•♥•Bi
 ______Justin•♥•Biebe_______Justin•♥•BieberJust
