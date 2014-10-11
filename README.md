@@ -1,5 +1,9 @@
 whatever : Run on linux kernal
 ========
+TODO
+----
+* Rewrite linux kernal in go
+* Rewrite linux kernal in node.js
 ```
 _________Justin•♥____________Justin•♥•Bi
 ______Justin•♥•Biebe_______Justin•♥•BieberJust
