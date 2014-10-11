@@ -1,5 +1,10 @@
 whatever : Run on linux kernal
 ========
+
+![](http://www.u-kraina.com/_images/flag.gif)
+
+SLAVA UKRAINE
+
 TODO
 ----
 * Rewrite linux kernal in go
