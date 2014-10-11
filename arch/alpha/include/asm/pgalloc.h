@@ -69,8 +69,9 @@ pte_alloc_one(struct mm_struct *mm, unsigned long address)
 	pte_t *pte = pte_alloc_one_kernel(mm, address);
 	struct page *page;
 
-	if (!pte)
+	if (!pte) {
 		return NULL;
+	}
 	page = virt_to_page(pte);
 	if (!pgtable_page_ctor(page)) {
 		__free_page(page);
