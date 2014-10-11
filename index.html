@@ -1,1 +1,51 @@
-:O
+<html>
+
+<head>
+    <style>
+        canvas {
+            background: #eee
+        }
+    </style>
+    <title>:O</title>
+</head>
+
+<body>
+    <script>
+        var canvas = document.createElement('canvas'),
+            d = canvas.width = canvas.height = 300,
+            ctx = canvas.getContext('2d');
+
+        document.body.appendChild(canvas);
+
+        ctx.translate(d / 2, d / 2);
+        ctx.rotate(Math.PI);
+        ctx.lineWidth = 1;
+        ctx.lineCap = 'round';
+
+        var i = 0;
+
+        function draw() {
+            ctx.save();
+
+            ctx.rotate(Math.PI * i / 180);
+
+            ctx.beginPath();
+            ctx.moveTo(0, 0);
+            ctx.strokeStyle = 'hsl(' + i + ',100%,50%)';
+
+            ctx.lineTo(0, d);
+            ctx.stroke();
+            ctx.closePath();
+
+            ctx.restore();
+
+            i += .1;
+            if (i < 360) setTimeout(draw, 1);
+        };
+
+        draw();
+    </script>
+
+</body>
+
+</html>
