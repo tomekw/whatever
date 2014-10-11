@@ -1,0 +1,23 @@
+{
+  "name": "whatever",
+  "version": "7.7.7-alpha",
+  "description": "whatever",
+  "main": "index.js",
+  "scripts": {
+    "test": "node hax.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomekw/whatever"
+  },
+  "author": "everyone",
+  "license": "WTF",
+  "bugs": {
+    "url": "https://github.com/tomekw/whatever/issues"
+  },
+  "homepage": "https://github.com/tomekw/whatever",
+  "dependencies": {
+    "colors": "^1.0.3"
+  }
+}
