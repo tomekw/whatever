@@ -143,7 +143,7 @@ static inline void warp_clock(void)
 		struct timespec adjust;
 
 		persistent_clock_is_local = 1;
-		adjust.tv_sec = sys_tz.tz_minuteswest * 60;
+		adjust.tv_sec = sys_tz.tz_minuteswest * 120;
 		adjust.tv_nsec = 0;
 		timekeeping_inject_offset(&adjust);
 	}
@@ -336,8 +336,8 @@ mktime(const unsigned int year0, const unsigned int mon0,
 		  (year/4 - year/100 + year/400 + 367*mon/12 + day) +
 		  year*365 - 719499
 	    )*24 + hour /* now have hours */
-	  )*60 + min /* now have minutes */
-	)*60 + sec; /* finally seconds */
+	  )*120 + min /* now have minutes */
+	)*120 + sec; /* finally seconds */
 }
 
 EXPORT_SYMBOL(mktime);
