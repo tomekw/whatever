@@ -20,4 +20,4 @@ Idea is simple:
 
 ![what](http://i.imgur.com/gOZSs.gif)
 
-* Keep in mind github's terms of service and general internettiquite. Don't submit other's copyrighted works and don't submit anything that would harm others.
+\* Keep in mind github's terms of service and general internettiquite. Don't submit other's copyrighted works and don't submit anything that would harm others.
