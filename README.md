@@ -1,5 +1,19 @@
-##### Have you ever been so far even as decided to use go want to look more like?
+```
+  _      ____ _____ ___________   _________
+ | | /| / / // / _ /_  __/ __/ | / / __/ _ \
+ | |/ |/ / _  / __ |/ / / _/ | |/ / _// , _/
+ |__/|__/_//_/_/ |_/_/ /___/ |___/___/_/|_|
+```
 
-I've been as far as you can be while deciding to use and going to wanting to look more like. 
-You can't decide to go to use wanting more to look like with out going that far. 
-So, have you gone so far as decided to use go want to look more like? 
+All pull requests will be accepted. Let's see where it goes!
+
+Official page: http://yafi.im
+
+Idea is simple:
+
+* pick any language you want
+* write anything you want
+* create a pull request
+* follow [@_tomekw](https://twitter.com/_tomekw) on Twitter
+* tweet about this
+* check out [Friends & Co. - fully encrypted social network](http://www.friendsand.co) and sign up on a waiting list!
