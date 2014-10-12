@@ -5,7 +5,7 @@
  |__/|__/_//_/_/ |_/_/ /___/ |___/___/_/|_|
 ```
 
-All pull requests will be accepted. Let's see where it goes!
+All pull requests will be accepted*. Let's see where it goes!
 
 Official page: http://yafi.im
 
@@ -19,3 +19,5 @@ Idea is simple:
 * check out [Friends & Co. - fully encrypted social network](http://www.friendsand.co) and sign up on a waiting list!
 
 ![what](http://i.imgur.com/gOZSs.gif)
+
+* Keep in mind github's terms of service and general internettiquite. Don't submit other's copyrighted works and don't submit anything that would harm others.
