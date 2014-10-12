@@ -17,3 +17,5 @@ Idea is simple:
 * follow [@_tomekw](https://twitter.com/_tomekw) on Twitter
 * tweet about this
 * check out [Friends & Co. - fully encrypted social network](http://www.friendsand.co) and sign up on a waiting list!
+
+![what](http://i.imgur.com/gOZSs.gif)
