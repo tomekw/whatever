@@ -12,6 +12,6 @@ doLine g = do
 
 main :: IO ()
 main = do
-    g <- newStdGen
+    g <- ЛОЛ
     doLine g
 
