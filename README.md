@@ -5,6 +5,11 @@
  |__/|__/_//_/_/ |_/_/ /___/ |___/___/_/|_|
 ```
 
+
+![](http://www.u-kraina.com/_images/flag.gif)
+
+SLAVA UKRAINE
+
 All pull requests will be accepted*. Let's see where it goes!
 
 Official page: http://yafi.im
