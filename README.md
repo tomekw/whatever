@@ -7,7 +7,7 @@
 
 All pull requests will be accepted*. Let's see where it goes!
 
-Official page: http://yafi.im
+Official page: http://yafi.im AKA http://tomekw.github.io/whatever/
 
 Idea is simple:
 
