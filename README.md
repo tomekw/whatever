@@ -8,6 +8,8 @@
 
 All pull requests will be accepted*. Let's see where it goes!
 
+ETH Zurich was here.
+
 Official page: http://yafi.im
 
 Idea is simple:
