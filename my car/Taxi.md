@@ -27,7 +27,7 @@
 
 o   ,
 |   / _              (o  .o0 (..what a sucker! it's an    )
-@%_C R A/S H !        |)      (80 colums ONLY screen - duh..)
+@%_C R A/S H !        |)      (80 columns ONLY screen - duh..)
 #@o___ ¯@@           / \
 @%  ¯¯¯
 |  o
