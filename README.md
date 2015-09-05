@@ -27,7 +27,7 @@ Idea is simple:
 * pick any language you want
 * write anything you want
 * create a pull request
-* follow [@_tomekw](https://twitter.com/_tomekw) on Twitter
+* follow [@_tomekw](https://twitter.com/_tomekw) and [@rileyjshaw](https://twitter.com/rileyjshaw) on Twitter
 * tweet about this
 * check out [Friends & Co. - fully encrypted social network](http://www.friendsand.co) and sign up on a waiting list!
 * give yourself a high five for contributing the greatest repository in the universe! ![High Five!](http://i.giphy.com/C4lSxWjqSJLfG.gif)
