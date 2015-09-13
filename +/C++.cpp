@@ -3,5 +3,5 @@
 
 int main()
 {
-  std::cout << "This is C++ you smegheads";
+  std::cout << "This is C++ you smegheads" << std::endl;
 }
