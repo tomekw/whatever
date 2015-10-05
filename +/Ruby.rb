@@ -1,1 +1,0 @@
-puts 'This is Ruby!'
