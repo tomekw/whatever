@@ -1,7 +1,11 @@
 // This is C++
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-  std::cout << "This is C++ you smegheads" << std::endl;
+  cout << "This is C++ you smegheads" << endl;
+  
+  return 0;
 }
