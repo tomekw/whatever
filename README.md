@@ -1,9 +1,12 @@
+[![GitHub Rank](https://reporank.com/tomekw/whatever)](https://reporank.com)
+[![GitHub Rank](https://reporank.com/twbs/bootstrap)](https://reporank.com)
 
+ˆ
 ```
     ＿＿＿＿＿＿＿　
-　／　　 　　　　　＼            _      ____ _____ ___________   _________
-　＼　　　・　　　・ ＼         | | /| / / // / _ /_  __/ __/ | / / __/ _ \
-　　＼　　　　　＼　　 ＼       | |/ |/ / _  / __ |/ / / _/ | |/ / _// , _/
+　／　　 　　　　　＼             _      ____ _____ ___________   _________
+　＼　　　・　　　・ ＼          | | /| / / // / _ /_  __/ __/ | / / __/ _ \
+　　＼　　　　　＼　　 ＼       | |/ |/ / _  / __ |/ / / _// | |/ / _// , _/
 　　　＼　　:　 ￣　　:  ＼     |__/|__/_//_/_/ |_/_/ /___/ |___/___/_/|_|
 　　　　＼　　　￣　　　　|    ------------------------------------------------
 　　　　　＼＿＿＿　　＿／
@@ -18,9 +21,10 @@
 ```
 All pull requests will be accepted*. Let's see where it goes!
 
-We're currently celebrating the 1 year anniversary of this repo, when pull request #1 was created October 10'th 2015, along with 156 other pull requests.  Help us celebrate by contributing the greatest of pull-requests!  Here's to another year of accepting all pull requests!
+We're currently celebrating the 1 year anniversary of this repo, when pull request #1 was created October 10'th 2015, along with 229 other pull requests.  Help us celebrate by contributing the greatest of pull-requests!  Here's to another year of accepting all pull requests!
 
 ETH Zurich was here.
+Dub Dub was here.
 
 Official page: http://yafi.im
 
@@ -29,9 +33,8 @@ Idea is simple:
 * pick any language you want
 * write anything you want
 * create a pull request
-* follow [@_tomekw](https://twitter.com/_tomekw) on Twitter
+* follow [@_tomekw](https://twitter.com/_tomekw) and [@rileyjshaw](https://twitter.com/rileyjshaw) on Twitter
 * tweet about this
-* check out [Friends & Co. - fully encrypted social network](http://www.friendsand.co) and sign up on a waiting list!
 * give yourself a high five for contributing the greatest repository in the universe! ![High Five!](http://i.giphy.com/C4lSxWjqSJLfG.gif)
 * hi
 
@@ -39,4 +42,27 @@ Idea is simple:
 
 \* Keep in mind github's terms of service and general internettiquite. Don't submit other's copyrighted works and don't submit anything that would harm others.
 
+
 ![ayy lmao](http://i.imgur.com/VbpFPxD.gif)
+
+    ░░░░░░░░░▄░░░░░░░░░░░░░░▄░░░░
+    ░░░░░░░░▌▒█░░░░░░░░░░░▄▀▒▌░░░
+    ░░░░░░░░▌▒▒█░░░░░░░░▄▀▒▒▒▐░░░
+    ░░░░░░░▐▄▀▒▒▀▀▀▀▄▄▄▀▒▒▒▒▒▐░░░
+    ░░░░░▄▄▀▒░▒▒▒▒▒▒▒▒▒█▒▒▄█▒▐░░░
+    ░░░▄▀▒▒▒░░░▒▒▒░░░▒▒▒▀██▀▒▌░░░ 
+    ░░▐▒▒▒▄▄▒▒▒▒░░░▒▒▒▒▒▒▒▀▄▒▒▌░░
+    ░░▌░░▌█▀▒▒▒▒▒▄▀█▄▒▒▒▒▒▒▒█▒▐░░
+    ░▐░░░▒▒▒▒▒▒▒▒▌██▀▒▒░░░▒▒▒▀▄▌░
+    ░▌░▒▄██▄▒▒▒▒▒▒▒▒▒░░░░░░▒▒▒▒▌░
+    ▀▒▀▐▄█▄█▌▄░▀▒▒░░░░░░░░░░▒▒▒▐░
+    ▐▒▒▐▀▐▀▒░▄▄▒▄▒▒▒▒▒▒░▒░▒░▒▒▒▒▌
+    ▐▒▒▒▀▀▄▄▒▒▒▄▒▒▒▒▒▒▒▒░▒░▒░▒▒▐░
+    ░▌▒▒▒▒▒▒▀▀▀▒▒▒▒▒▒░▒░▒░▒░▒▒▒▌░
+    ░▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒░▒░▒░▒▒▄▒▒▐░░
+    ░░▀▄▒▒▒▒▒▒▒▒▒▒▒░▒░▒░▒▄▒▒▒▒▌░░
+    ░░░░▀▄▒▒▒▒▒▒▒▒▒▒▄▄▄▀▒▒▒▒▄▀░░░
+    ░░░░░░▀▄▄▄▄▄▄▀▀▀▒▒▒▒▒▄▄▀░░░░░
+    ░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▀▀░░░░░░░░
+    
+wow

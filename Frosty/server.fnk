@@ -1,0 +1,28 @@
+#req~['package-name-format']
+
+frost.includes ({
+    frostByte();
+    frostEnd();
+    frostEvent();
+    frostClose();
+    frostOpen();
+    frostPort();
+    frostJvm();
+    frostStart();
+    frostEval();
+    frostTrigger();
+    frost();
+});
+
+if (frost()) {
+    frostTrigger(frostByte());
+} else if (frostEvent('frostByte()')) {
+    frostJvm('print("This is how frosty works")');
+} else {
+    frostTrigger(frostJvm('exit'));
+}
+
+if (frostByte() == frostJvm('2')) {
+    frostClose("explore.exe");
+    frostEval('0*2$$%io%');
+}

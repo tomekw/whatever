@@ -10,7 +10,7 @@ https://docs.djangoproject.com/en/1.7/ref/settings/
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 import os
-BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+BASE_DIR = os.path.dirname(os.path.dirname(__file__));
 
 
 # Quick-start development settings - unsuitable for production
@@ -20,11 +20,11 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 SECRET_KEY = 'u(d#5uxit&3e3xaiesk@=v*apx1j4pvvb9hbn*4yj_yo8=m2c7'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = True,
 
-TEMPLATE_DEBUG = True
+TEMPLATE_DEBUG = True,
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [],
 
 
 # Application definition
@@ -50,7 +50,7 @@ MIDDLEWARE_CLASSES = (
 
 ROOT_URLCONF = 'whatever.urls'
 
-WSGI_APPLICATION = 'whatever.wsgi.application'
+WSGI_APPLICATION = 'whatever.wsgi.application',
 
 
 # Database
@@ -68,13 +68,13 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'UTC',
 
-USE_I18N = True
+USE_I18N = True,
 
-USE_L10N = True
+USE_L10N = True,
 
-USE_TZ = True
+USE_TZ = True,
 
 
 # Static files (CSS, JavaScript, Images)

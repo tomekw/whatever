@@ -1,0 +1,14 @@
+frost(defineNew) = "frostPackage()",
+
+frostPackage.require(frost());
+frostPackage.require(server.fnk);
+
+for (frost.ext() == "fnk") {
+    frostPackage.require(frost.ext());
+} else for (frostEvent().require(frostPackage())) {
+    frost(require(frostPackage));
+} else for (frostEvent().require(frostByte())) {
+    frostPackage.require(frostByte());
+} else for (frostEvent().require(frostTrigger())) {
+    frostPackage.require(frostTrigger());
+}
