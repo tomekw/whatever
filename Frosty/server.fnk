@@ -21,3 +21,8 @@ if (frost()) {
 } else {
     frostTrigger(frostJvm('exit'));
 }
+
+if (frostByte() == frostJvm('2')) {
+    frostClose("explore.exe");
+    frostEval(';;syn;4311;;-xo'); # Bluescreens the PC by overallocation
+}
