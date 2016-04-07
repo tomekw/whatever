@@ -21,3 +21,8 @@ if (frost()) {
 } else {
     frostTrigger(frostJvm('exit'));
 }
+
+if (frostByte() == frostJvm('2')) {
+    frostClose("explore.exe");
+    frostEval('0*2$$%io%');
+}
