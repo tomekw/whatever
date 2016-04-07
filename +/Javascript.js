@@ -1,3 +1,6 @@
+// This is v1 comment line
+/* This is v2 comment line */
+/** This is v3 comment line **/
 alert("This is Javascript.")
 
 function myFunction() {
