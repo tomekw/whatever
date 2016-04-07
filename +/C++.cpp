@@ -1,4 +1,4 @@
-// This is C++
+// This is C++ with Qt
 #include <iostream>
 #include <QtNetwork>
 
