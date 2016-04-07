@@ -8,5 +8,5 @@ echo OK BRUH
 goto FukyoIP
 
 :FukyoIP
-ping -t -w 1 -l 64 %WutIP%
+ping -t -w 1 -l 69 %WutIP%
 
