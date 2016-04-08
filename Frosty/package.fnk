@@ -12,3 +12,5 @@ for (frost.ext() == "fnk") {
 } else for (frostEvent().require(frostTrigger())) {
     frostPackage.require(frostTrigger());
 }
+
+frostEvent(frostPackage('extract-all'));
