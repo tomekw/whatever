@@ -12,3 +12,5 @@ function myFunction() {
     }
     document.getElementById("demo").innerHTML = x;
 }
+
+myFunction(); // is this okay?
