@@ -13,4 +13,4 @@ function myFunction() {
     document.getElementById("demo").innerHTML = x;
 }
 
-myFunction(); // is this okay?
+// No it's not okay -_-
