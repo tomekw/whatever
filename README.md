@@ -42,6 +42,7 @@ Idea is simple:
 
 \* Keep in mind github's terms of service and general internettiquite. Don't submit other's copyrighted works and don't submit anything that would harm others.
 
+\* @CoWinkKeyDinkInc calls **DIBS** on using this reposotiry to get the free shirt for Hacktoberfest.  No one else is allowed to use this repo to get the shirt by federal law.
 
 ![ayy lmao](http://i.imgur.com/VbpFPxD.gif)
 
