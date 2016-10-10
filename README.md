@@ -21,7 +21,7 @@
 ```
 All pull requests will be accepted*. Let's see where it goes!
 
-We're currently celebrating the 1 year anniversary of this repo, when pull request #1 was created October 10'th 2015, along with 156 other pull requests on that day.  Help us celebrate by contributing the greatest of pull-requests!  Here's to another year of accepting all pull requests!
+We're currently celebrating the 2 year anniversary of this repo, when pull request #1 was created October 10'th 2015, along with 156 other pull requests on that day.  Help us celebrate by contributing the greatest of pull-requests!  Here's to another year of accepting all pull requests!
 
 # IMPORTANT NOTE:
 
