@@ -7,8 +7,8 @@ This folder will bang you damn viruses that insists on creating this file on usb
 
 **P.P.S.** Oh yeah, I forgot to mention who this Linus guy is. He made Linux, and he likes to rage I guess.
 
-[Source 1](https://lkml.org/lkml/2012/12/23/750)
-[Source 2](http://www.theregister.co.uk/2016/07/11/linus_torvalds_in_sweary_rant_about_punctuation_in_kernel_comments/)
+ - [Source 1](https://lkml.org/lkml/2012/12/23/750)
+ - [Source 2](http://www.theregister.co.uk/2016/07/11/linus_torvalds_in_sweary_rant_about_punctuation_in_kernel_comments/)
 
 :cake::microphone::video_game:
 
