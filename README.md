@@ -65,8 +65,10 @@ wow
 hi MOM
 
 ## Reviews
-`TBH I love this software` - [Arsen](https://github.com/ArsenArsen)
+>TBH I love this software
+- [Arsen](https://github.com/ArsenArsen)
 
-`This exquisite shareware got me a free shirt last year, commie approved` - [CoWinkKeyDinkInc](https://github,com/CoWinkKeyDinkInc)
+>This exquisite shareware got me a free shirt last year, commie approved!
+  - [CoWinkKeyDinkInc](https://github,com/CoWinkKeyDinkInc)
 
 \* Keep in mind github's terms of service and general internettiquite. Don't submit other's copyrighted works and don't submit anything that would harm others.
