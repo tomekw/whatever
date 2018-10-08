@@ -7,17 +7,18 @@
 　　　　＼　　　￣　　　　|    ------------------------------------------------
 　　　　　＼＿＿＿　　＿／
 　　　　　　　　　＼　＼＿＿＿＿＿＿＿/）-
-　　　　　　　　　／　　　　    ＿  　　 _三;
+　　　　　　　　　／　　　　       　　 _三;
 　　　　　　　　／　　　　　　　　＼￣￣￣￣
 　　　　　　　／　　／＼　　　　　　＼
-　　　(L　＿／　  ／　　＼　　　　　  ＼
-　　 :三＿＿＿／　　　　　＼　　　　　  ＼
-　　　 ~　　　　　　　　　　＼　　　　　  ＼
+　　 _(L＿＿／　 ／　　＼　　　　　  ＼
+　:三   ＿＿＿／　　　　　＼　　　　　  ＼
+　　　~　 　　　　　　　　　＼　　　　　  ＼
                           \           \
 ```
 All pull requests will be accepted*. Let's see where it goes!
 
-We're currently celebrating the 3 year anniversary of this repo, when pull request #1 was created October 10th 2014, along with 152 other pull requests on that day.  Help us celebrate by contributing the greatest of pull-requests!  Here's to another year of accepting all pull requests!
+We're currently celebrating the 3 year anniversary of this repo, when pull request #1 was created October 10th 2014, along with 152 other pull requests on that day.  
+Help us celebrate by contributing the greatest of pull-requests!  Here's to another year of accepting all pull requests!
 
 # EVERYTHING ELSE:
 
@@ -61,11 +62,13 @@ Idea is simple:
     ░░░░░░░░░▒▒▒▒▒▒▒▒▒▒▀▀░░░░░░░░
 
 wow
-MOM
+hi MOM
 
 ## Reviews
-`TBH I love this software` - [Arsen](https://github.com/ArsenArsen)
+>TBH I love this software
+- [Arsen](https://github.com/ArsenArsen)
 
-`This exquisite shareware got me a free shirt last year, commie approved` - [CoWinkKeyDinkInc](https://github,com/CoWinkKeyDinkInc)
+>This exquisite shareware got me a free shirt last year, commie approved!
+  - [CoWinkKeyDinkInc](https://github,com/CoWinkKeyDinkInc)
 
 \* Keep in mind github's terms of service and general internettiquite. Don't submit other's copyrighted works and don't submit anything that would harm others.
