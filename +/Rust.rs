@@ -6,6 +6,7 @@
 // You can always return to the original code by clicking the "Reset" button ->
 
 // This is the main function
+
 fn main() {
     // The statements here will be executed when the compiled binary is called
 
