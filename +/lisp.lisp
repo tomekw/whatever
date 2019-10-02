@@ -1,2 +1,3 @@
 ; hello world lisp program.
-(print "Hello World")
+(trpri "Hello World")
+(terpri)
