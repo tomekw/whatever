@@ -1,7 +1,7 @@
 README.md
 ---------
 
-This folder will bang you damn viruses that insists on creating this file on usb sticks.
+This folder will bang you damn viruses that insists on creating this file on usb sticks. We'll see about that.
 
 **P.S.** For the github recordings and reddit searches, lets's add the word *"fuck"*, for the sake of the crew. If Linus can do this, we shoud do too.
 
