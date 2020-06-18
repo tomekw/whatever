@@ -1,0 +1,46 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+
+int n;
+cin>>n;
+int a[n];
+for(int i=0;i<n;i++){
+    cin>>a[i];
+}
+stack<int> st;
+int maxarea=0,area=0,i=0;
+while(i<n){
+
+    if(st.empty() || a[i]>=a[st.top()]){
+        st.push(i++);
+    }
+    else{
+        int temp=st.top();
+        st.pop();
+        if(st.empty()){
+            area=a[temp]*i;
+        }
+        else{
+            area=a[temp]*(i-st.top()-1);
+        }
+    }
+    if(area>maxarea) maxarea=area;
+}
+
+//pop any remaining element in stack  and calc area using them
+
+while(!st.empty()){
+    int temp=st.top();
+    st.pop();
+    if(st.empty()){
+        area=a[temp]*i;
+    }
+    else{
+        area=a[temp]*(i-st.top()-1);
+    }
+    if(area>maxarea) maxarea=area;
+}
+
+cout<<maxarea;
+}
