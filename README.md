@@ -1,3 +1,8 @@
+Consider making a donation to the [Zig Software Foundation](https://github.com/sponsors/ziglang)
+
+> The mission of the Zig Software Foundation is to promote, protect, and advance the Zig programming language, to support and facilitate the growth of a diverse and international community of Zig programmers, and to provide education and guidance to students, teaching the next generation of programmers to be competent, ethical, and to hold each other to high standards.
+
+
 ```
     ＿＿＿＿＿＿＿　
 　／　　 　　　　　＼            _      ____ _____ ___________   _________
