@@ -74,6 +74,12 @@ wow
 hi MOM
 I just want a free t-shirt
 
+-----------------------------------------
+
+# Another cool [repo](https://github.com/Bereket-G/A-for-apple) to contribute 
+
+-----------------------------------------
+
 ## Reviews
 >TBH I love this software
 - [Arsen](https://github.com/ArsenArsen)
