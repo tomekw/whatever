@@ -1,5 +1,8 @@
 Consider making a donation to the [Zig Software Foundation](https://github.com/sponsors/ziglang)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/tomekw/whatever)
+
+
 > The mission of the Zig Software Foundation is to promote, protect, and advance the Zig programming language, to support and facilitate the growth of a diverse and international community of Zig programmers, and to provide education and guidance to students, teaching the next generation of programmers to be competent, ethical, and to hold each other to high standards.
 
 
@@ -26,6 +29,16 @@ We're currently celebrating the 4 year anniversary of this repo, when pull reque
 Help us celebrate by contributing the greatest of pull-requests!  Here's to another year of accepting all pull requests!
 
 # EVERYTHING ELSE:
+
+#### Pymakeself alternative -> dsfx
+> rebuilt the pymakeself lib into dsfx with cool new features. Check it out [here](https://github.com/d33pster/dsfx)
+
+> Install with
+```bash
+pip install dsfx
+# ENJOI ;)
+```
+
 
 a
 
