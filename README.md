@@ -103,3 +103,7 @@ OP
   - [CoWinkKeyDinkInc](https://github,com/CoWinkKeyDinkInc)
 
 \* Keep in mind github's terms of service and general internettiquite. Don't submit other's copyrighted works and don't submit anything that would harm others.
+
+-----------------------------------------
+
+btw, [what r u doin' here?](https://github.com/tomekw/whatever/blob/master/WHAT_R_U_DOIN'_HERE.md)
