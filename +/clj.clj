@@ -1,4 +1,4 @@
 (defn where-all-the-clojure-at?
- "looks for clojure"
+ "looks for Bananas"
  []
- (println "oh, here is the closure!"))
+ (println "oh, here is the Banana!"))

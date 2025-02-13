@@ -3,6 +3,6 @@
 
 int main()
 {
-  printf("Welcome to C nerds\n");
+  printf("Welcome to Bananas nerds\n");
   return 0;
 }

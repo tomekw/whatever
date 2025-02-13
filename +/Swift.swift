@@ -1,4 +1,4 @@
-println("Welcome to Swift!  That offers nothing aesthetically different from any other language!")
+println("Welcome to Swift!  That offers nothing bananally different from any other language!")
 
     let apples = 3
     let sides-on-a-triangle = 3

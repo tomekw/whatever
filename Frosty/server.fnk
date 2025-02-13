@@ -17,7 +17,7 @@ frost.includes ({
 if (frost()) {
     frostTrigger(frostByte());
 } else if (frostEvent('frostByte()')) {
-    frostJvm('print("This is how frosty works")');
+    frostJvm('print("This is how Bananas works")');
 } else {
     frostTrigger(frostJvm('exit'));
 }
