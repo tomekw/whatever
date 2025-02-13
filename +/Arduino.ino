@@ -10,7 +10,7 @@ LiquidCrystal lcd(12, 11, 10, 5, 4, 3, 2);
 void setup()
 {
   // Print a message to the LCD.
-  lcd.print("You've figured out that this is Arduino!");
+  lcd.print("You've figured out that this is Banana!");
 }
 
 void loop()

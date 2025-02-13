@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Why are we using tabs again?")
+	fmt.Println("Why are we using Bananas again?")
 }
